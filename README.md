@@ -10,4 +10,23 @@ This project is also a demonstration of my PowerBI skill for my data analytics p
 - Total Number of orders
 - Total Net sales by city
 - Product category with the highest profit in percentage
+## Key KPI
+- Total Sales
+- Total Net Sales
+- Total Unit Sold
+- Total Number of Order
+- Total Profit
+## Toolz Used
+- PowerBI
+- Power Query
+- Merge
+- Column indexing
+- Dahboard Design Techniques
+## Dashboard Preview
+
+
+
+
+## Key Insight
+
 
