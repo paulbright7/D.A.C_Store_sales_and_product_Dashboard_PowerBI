@@ -1,8 +1,8 @@
-# D.A.C_Store_sales_and_product_Dashboard_PowerBI
+# 📊D.A.C_Store_sales_and_product_Dashboard_PowerBI
 This Project analyzes a supermarket called D.A.C Store using PowerBI. The store is equiped with different product category, i.e Accessories, Bags, Clothing, Electronics, Footwear, Home appliances, Kitchenware and personal care
 This project is also a demonstration of my PowerBI skill for my data analytics portfolio.
 
-## Business Questions Answered
+## 🔎Business Questions Answered
 - Top/Bottom 5 product by sales/Profit/Qunatity Sold
 - How do sales trends vary overtime (daily, monthly, quantity, annually)
 - Show relationship between Sales and Profit
@@ -12,27 +12,26 @@ This project is also a demonstration of my PowerBI skill for my data analytics p
 - Total Net sales by city
 - Product category with the highest profit in percentage
 
-## Key KPI
+## 📈Key KPI
 - Total Sales
 - Total Net Sales
 - Total Unit Sold
 - Total Number of Order
 - Total Profit
 
-## Toolz Used
+## ⚒️Toolz Used
 - PowerBI
 - Power Query
 - Merge
 - Column indexing
 - Dahboard Design Techniques
 
-## Dashboard Preview
+## 📸Dashboard Preview
 ![D.A.C_Store](DAC_Store_Data_PowerBI_Project.pbix)
 
+![D.A.C_Store_screenshot](Market_Analysis_dashboard.png)
 
-
-
-## Key Insight
+## 💡Key Insight
 The D.A.C Store Sales Dashboard answers Seven business questions across four pages: Executive Overview, Product Performance, Period Comparison and Discount, and Order Detail.
 
 ### 1. Which products perform best and worst?
@@ -56,4 +55,13 @@ Yes. The Order Detail page lists sales, profit, discount, net sales and all othe
 ### 7. Where are sales coming from?
 Sales are spread across many cities, with the largest concentrations in Bhopal with a net sales of ₹15.4M, Kanpur with a net sales of ₹14M and Indore with a net sales of ₹13.4M
 
-## File in this repository
+## 📁File in this repository
+[Store_data](Store+Data.xlsx)
+[PowerBI_file](DAC_Store_Data_PowerBI_Project.pbix)
+[Screenshot](Market_Analysis_dashboard.png)
+[Report_Page](Report_page.png)
+[Report_Page2](report_page2.png)
+
+## 📍Conclusion
+Protect and promote the top electronics lines, review whether the bottom-five household and personal care items justify their shelf space or need bundling, and check whether discounting is concentrated in categories that already sell well.
+
