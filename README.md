@@ -32,7 +32,7 @@ This project is also a demonstration of my PowerBI skill for my data analytics p
 ![D.A.C_Store_screenshot](Market_Analysis_dashboard.png)
 
 ## 💡Key Insight
-The D.A.C Store Sales Dashboard answers Seven business questions across four pages: Executive Overview, Product Performance, Period Comparison and Discount, and Order Detail.
+The D.A.C Store Sales Dashboard answers Seven business questions across two pages: Market analysis and product details.
 
 ### 1. Which products perform best and worst?
 Electronics carry the business. Apple iPhone 14, Apple MacBook Air, Sony Bravia 55" TV, Samsung Galaxy S21 and HP Pavilion Laptop lead on both sales and profit. Volume tells a different story: iPhone 14 is the only product in the top five for both sales and units, while Raymond Suit, Fossil Smartwatch, Zara Casual Shirt and IFB Microwave Oven complete the top five for units sold. At the bottom, low-priced personal care and household items (Colgate Toothpaste, Dove Soap Pack, Nivea Body Lotion, L'Oreal Shampoo and Tupperware Lunch Box) rank last for sales and profit. Nivea Body Lotion and Tupperware Lunch Box also appear in the bottom five for units sold, so they are weak on both price and volume.
