@@ -27,6 +27,7 @@ This project is also a demonstration of my PowerBI skill for my data analytics p
 - Dahboard Design Techniques
 
 ## Dashboard Preview
+![D.A.C_Store](DAC_Store_Data_PowerBI_Project.pbix)
 
 
 
