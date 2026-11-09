@@ -27,10 +27,10 @@ This project is also a demonstration of my PowerBI skill for my data analytics p
 - Dahboard Design Techniques
 
 ## 📸Dashboard Preview
-![D.A.C_Store](DAC_Store_Data_PowerBI_Project.pbix)
-
-![D.A.C_Store_screenshot](Market_Analysis_dashboard.png)
-
+![Comparison screenshot](Comparison_details.png)
+![Orders screenshot](Order_Details.png)
+![sales screenshot](Sales_Detail.png)
+![Product screenshot](Product_Detail.png)
 ## 💡Key Insight
 The D.A.C Store dashboard covers 3,510 orders from 50 customers across 16 cities, 30 products and 8 product lines, from January 2020 to December 2023, plus a single order on 1 January 2024. Total sales were ₹129.49M and net sales ₹122.31M, from 7,125 units. The average order is worth about ₹36.9K and contains about two units.
 
@@ -60,10 +60,10 @@ Bhopal (₹16.2M, 12.5%), Kanpur (₹15.0M, 11.5%) and Indore (₹14.0M, 10.8%) 
 
 ## 📁File in this repository
 [Store_data](Store+Data.xlsx)
-[PowerBI_file](DAC_Store_Data_PowerBI_Project.pbix)
-[Screenshot](Market_Analysis_dashboard.png)
-[Report_Page](Report_page.png)
-[Report_Page2](report_page2.png)
+[Sales](Sales_Detail.png)
+[Product](Product_Detail.png)
+[Order](Order_Details.png)
+[Comparison](Comparison_details.png)
 
 ## 📍Conclusion
 - Protect the five electronics lines. They bring in nearly three quarters of sales, so keep them fully stocked and prioritised for marketing.
